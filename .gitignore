@@ -1,0 +1,9 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.cproject
+.project
+.settings
+Startup
+*.ld
+Debug/*
+!Debug/BLDC.hex
